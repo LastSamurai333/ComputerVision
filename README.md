@@ -22,6 +22,7 @@ I was successfully able to detect duplicated. I have discussed
 my results in Approach-DuplicateDetection.pdf
 
 Also I discussed my approach in Approach-DulicateDetection.pdf
+Detected Duplicates Example:-
 
 <img width="320" alt="DuplicateDetectionResult" src="https://user-images.githubusercontent.com/31820715/54994301-f05b4b80-4fe9-11e9-8ec0-12339ed9c7a9.PNG">
 

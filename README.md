@@ -10,7 +10,7 @@ image, which help CNN to extract basic features quickly initially. For remaining
 32 epochs, trained model on original image 32x32.
 
 (Project was exercise part of my Internship )
-![DenseNetImage](https://imgur.com/XXxy4At)
+<img src="https://imgur.com/XXxy4At">
  
 ## **RetinaNet:**
 

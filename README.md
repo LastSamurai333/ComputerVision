@@ -6,7 +6,7 @@ is state of art algorithm for object detector. Focal loss resolve class
 imbalance problem for one-stage object detector. 
 
 I have trained model only for 4-5 epochs as of now, because each
-epoch taking 1.5-2hrs. But as you see in below image, loss is decreasing every
+epoch taking 1.5-2hrs in colab. But as you see in below image, loss is decreasing every
 epoch & code functionally correct  
 
 Also I discussed my approach in Approach-RetinaNet.pdf

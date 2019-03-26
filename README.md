@@ -13,12 +13,11 @@ Also I discussed my approach in Approach-RetinaNet.pdf
 
 ## **DuplicateDetection:**
 
-Developed code which detect duplicate product listed on E-commerce
- website based on image similarity. Code
-also used other attributes like brand, sleeveless type to reduce code
+Developed code which detect duplicate products listed on E-commerce
+ website based on image similarity. Code also used other attributes like brand, sleeveless type to reduce code
 complexity(O(N)) from N*N to ~25N. Dataset contain 2M+ products detail. 
 
-I was successfully able to detect duplicated. I have discussed
+I was successfully able to detect duplicate products. I have discussed
 my results in Approach-DuplicateDetection.pdf
 
 Also I discussed my approach in Approach-DulicateDetection.pdf
@@ -30,7 +29,7 @@ _Detected Duplicates Example:-_
 ## **DenseNet:**
 
 Implemented DenseNet architecture in keras. Achieved ~89%
-accuracy total 50 epochs.
+accuracy in total 50 epochs.
 
 Used data augmentation & Transfer learning.
 

@@ -10,7 +10,6 @@ image, which help CNN to extract basic features quickly initially. For remaining
 32 epochs, trained model on original image 32x32.
 
 (Project was exercise part of my Internship )
-
  
 ## **RetinaNet:**
 
@@ -27,7 +26,7 @@ Also I discussed my approach in Approach-RetinaNet.pdf
 
 ## **DulicateDetection:**
 
-Develop code which detect duplicate product listed on E-commerce
+Developed code which detect duplicate product listed on E-commerce
  website based on image similarity. Code
 also used other attributes like brand, sleeveless type to reduce code
 complexity(O(N)) from N*N to ~25N. Dataset contain 2M+ products detail. 

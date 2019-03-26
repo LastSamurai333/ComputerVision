@@ -25,7 +25,7 @@ epoch & code functionally correct  
 Also I discussed my approach in Approach-RetinaNet.pdf
 
 
-## **DulicateDetection: **
+## **DulicateDetection:**
 
 Develop code which detect duplicate product listed on E-commerce
  website based on image similarity. Code

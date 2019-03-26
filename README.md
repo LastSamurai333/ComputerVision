@@ -1,6 +1,7 @@
 ## **RetinaNet:**
 
-Implemented focal loss paper (RetinaNet) in Keras. RetinaNet
+Implemented Focal Loss for Dense Object Detection
+[Paper](https://arxiv.org/abs/1708.02002) (RetinaNet) in Keras. RetinaNet
 is state of art algorithm for object detector. Focal loss resolve class
 imbalance problem for one-stage object detector. 
 

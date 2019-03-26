@@ -1,4 +1,3 @@
-# ComputerVision
 ## **DenseNet:**
 
 Implemented DenseNet architecture in keras. Achieved ~89%
@@ -13,7 +12,7 @@ image, which help CNN to extract basic features quickly initially. For remaining
 (Project was exercise part of my Internship )
 
  
-**RetinaNet:**
+## **RetinaNet:**
 
 Implemented focal loss paper (RetinaNet) in Keras. RetinaNet
 is state of art algorithm for object detector. Focal loss resolve class
